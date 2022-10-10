@@ -1,6 +1,9 @@
 ### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbreadman98&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/breadman98)
 
+<div align="center">
+
+
 <!--
 **breadman98/breadman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h2>:small_orange_diamond:stats:small_orange_diamond:</h2>
 
+<!--state graph-->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breadman98&anuraghazra&theme=dracula&show_icons=true)
 
 
@@ -48,6 +53,8 @@ Here are some ideas to get you started:
   
   <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swo98)](https://solved.ac/swo98/)-->
  
+</div>
+
 
 
               
