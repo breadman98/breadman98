@@ -37,7 +37,7 @@ Here are some ideas to get you started:
  <!-- springboot logo -->
 <span align="center"> :seedling: Back-End</span>
  <!-- -->
- <img alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <!-- java logo --> <img alt="java" src   ="https://img.shields.io/badge/Java-8669AE.svg?&style=for-the-badge&logo=a&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> <!-- node.js logo --> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
  
  <!-- c++ logo -->
 <span> :seedling: Algorithm </span>
