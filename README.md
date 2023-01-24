@@ -29,12 +29,13 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!-- javascript logo -->
+<!-- frontend logo -->
 <span align="center"> :seedling: Front-End</span>
 <!-- -->
   <img alt="js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <!-- typescript logo --><img alt="ts" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <!-- react logo --><img alt="react" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  <!-- firebase logo--><img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
   
- <!-- springboot logo -->
+ <!-- backend logo -->
 <span align="center"> :seedling: Back-End</span>
  <!-- -->
  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> <!-- node.js logo --> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
