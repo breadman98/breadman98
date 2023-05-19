@@ -29,39 +29,35 @@ Here are some ideas to get you started:
 <div align="center">
   <h3>🌱Web2</h3>
 <!-- Front-end 로고 -->
-<h3>🌱Front-end</h3>
- <br/>
+<!-- <h3>🌱Front-end</h3> -->
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"></a> <a href="#"><img alt="Recoil" src="https://img.shields.io/badge/Recoil-981CEB.svg?style=for-the-badge&logo=Recoil&logoColor=white"></a> <a href="#"><img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white"></a> <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"></a> <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"></a>
- <br/>
 <!-- Back-end 로고 -->
-<h3>🌱Back-end</h3>
+<!-- <h3>🌱Back-end</h3> -->
   <br/>
-<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"></a> <a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-007396.svg?style=for-the-badge&logo=Java&logoColor=white"></a> <a href="#"><img alt="AWS RDS" src="https://img.shields.io/badge/AWS_RDS-FF9900.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"></a> <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"></a>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"></a> <a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-007396.svg?style=for-the-badge&logo=Java&logoColor=white"></a> <a href="#"><img alt="AWS RDS" src="https://img.shields.io/badge/AWS_RDS-FF9900.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"></a> <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"></a> <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
  <br/>
   
 <!-- IDE 로고 -->
-<h3>IDE</h3>
-  <br/>
+<h3>🌱IDE</h3>
 <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></a> <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"></a> <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"></a> <a href="#"><img alt="Spring Tool Suite 4" src="https://img.shields.io/badge/Spring_Tool_Suite_4-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"></a>
  <br/>
   
 <!-- 도구 및 테스트 로고 -->
-<h3>Tools/Test</h3>
-  <br/>
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"></a>
+<h3>🌱Ect</h3>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a> <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"></a> <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"></a>
  <br/>
-  
+<!--   
 <!-- 알고리즘 로고 -->
-<h3>Algorithm</h3>
+<!-- <h3>Algorithm</h3>
   <br/>
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
  <br/>
   
 <!-- Unity 로고 -->
-<h3>Etc</h3>
+<!-- <h3>Etc</h3>
   <br/>
 <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"></a>
-
+ -->
   
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swo98)](https://solved.ac/swo98/)-->
  
