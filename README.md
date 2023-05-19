@@ -15,40 +15,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>:small_orange_diamond:stats:small_orange_diamond:</h2>
+<h2>⭐️ Stats ⭐️</h2>
 
 <!--state graph-->
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breadman98&anuraghazra&theme=dracula&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=breadman98&theme=dracula&show_icons=true)
 
 
-<div align="center">
-<h2>:small_orange_diamond:studying stack:small_orange_diamond:</h2>
+<h2>🚀 Studying Stack 🚀</h2>
 
 
 </div>
 
 <div align="center">
-
-<!-- frontend logo -->
-<span align="center"> :seedling: Front-End</span>
-<!-- -->
-  <img alt="js" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <!-- typescript logo --><img alt="ts" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/> <!-- react logo --><img alt="react" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-<!--  firebase logo<img alt="firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">  -->
-   
- <!-- backend logo -->
-<span align="center"> :seedling: Back-End</span>
- <!-- -->
- <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"> <!-- node.js logo --> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
- 
- <!-- c++ logo -->
-<span> :seedling: Algorithm </span>
-<!-- -->
-   <img alt="c++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-   
-
+  <h3>🌱Web2</h3>
+<!-- Front-end 로고 -->
+<h3>🌱Front-end</h3>
+ <br/>
+<a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=white"></a> <a href="#"><img alt="Recoil" src="https://img.shields.io/badge/Recoil-981CEB.svg?style=for-the-badge&logo=Recoil&logoColor=white"></a> <a href="#"><img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white"></a> <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"></a> <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"></a>
+ <br/>
+<!-- Back-end 로고 -->
+<h3>🌱Back-end</h3>
+  <br/>
+<a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"></a> <a href="#"><img alt="JPA" src="https://img.shields.io/badge/JPA-007396.svg?style=for-the-badge&logo=Java&logoColor=white"></a> <a href="#"><img alt="AWS RDS" src="https://img.shields.io/badge/AWS_RDS-FF9900.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white"></a> <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=MariaDB&logoColor=white"></a>
+ <br/>
+  
+<!-- IDE 로고 -->
+<h3>IDE</h3>
+  <br/>
+<a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white"></a> <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91.svg?style=for-the-badge&logo=Visual-Studio&logoColor=white"></a> <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white"></a> <a href="#"><img alt="Spring Tool Suite 4" src="https://img.shields.io/badge/Spring_Tool_Suite_4-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white"></a>
+ <br/>
+  
+<!-- 도구 및 테스트 로고 -->
+<h3>Tools/Test</h3>
+  <br/>
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"></a>
+ <br/>
+  
+<!-- 알고리즘 로고 -->
+<h3>Algorithm</h3>
+  <br/>
+<a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
+ <br/>
+  
+<!-- Unity 로고 -->
+<h3>Etc</h3>
+  <br/>
+<a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=Unity&logoColor=white"></a>
 
   
-  <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swo98)](https://solved.ac/swo98/)-->
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=swo98)](https://solved.ac/swo98/)-->
  
 </div>
 
